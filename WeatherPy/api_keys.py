@@ -1,0 +1,4 @@
+
+api_keys = "78e7dbc8e87d2f91b433db06cb671733"
+
+geoapify_keys = "9810630325554d7186141f6bc2b74e8a"
